@@ -2,7 +2,7 @@
 
 1. Download and install Anaconda (Download link: https://www.anaconda.com/).
 
-2. Download the code compressed package chathof_interactive.zip (Download link:https://github.com/wchou93/chathof_interactive).
+2. Download the code compressed package hainanhof_interactive.zip (Download link:https://github.com/wchou93/hainanhof_interactive).
 
 3. Create a folder at any location (e.g., a "Jupyter" folder on your desktop), place the compressed package into it, and extract the contents.
 
@@ -10,7 +10,7 @@
 
 1. Open Anaconda Navigator, select Jupyter Lab, and start it.
 
-2. On the left side of the popped-up Jupyter Lab web window, find the path where the chathof_interactive folder was placed. Open it, and you will see several files such as database_HOF.py.
+2. On the left side of the popped-up Jupyter Lab web window, find the path where the hainanhof_interactive folder was placed. Open it, and you will see several files such as database_HOF.py.
 
 3. Click the blue "+" icon in the upper left corner, select "python3 (ipykernel)" under the first Notebook option, and a new window will pop up.
 
